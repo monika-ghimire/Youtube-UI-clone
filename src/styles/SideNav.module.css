@@ -1,0 +1,38 @@
+.SideNav ul
+{
+    margin-left:10%;
+    margin-top:5%;
+ 
+}
+.SideNav
+{
+    border-bottom:1px solid gainsboro;
+}
+.heading
+{
+font-weight: bold;
+font-size:30px;
+display: inline;
+
+}
+.youtubeIcon
+{
+    font-size:30px;
+    color:red;
+    display: inline;
+    height:60px;
+}
+.Content
+{
+
+margin-top:20px;
+
+}
+.Content i{
+    font-size:24px;
+}
+.Content a{
+    color:black;
+    text-decoration: none;
+    margin-left:10px;
+}

@@ -1,0 +1,49 @@
+
+.NavBarHolder ul{
+    margin-top:15px;
+
+  
+}
+.NavBarHolder
+{
+    height:60px;
+    border-bottom:1px solid gainsboro;
+}
+.searchBar
+{
+    width:500px;
+    padding:10px;
+    border-radius:20px;
+    border:1px solid gainsboro;
+}
+.micSearch
+{
+ width:40px;
+ height:40px;
+ font-size:20px;
+    border-radius:50%;
+    border:1px solid gainsboro;
+    margin-left: 10px;
+    background-color: #F9F9F9;
+}
+.videoAdded
+{
+    margin-left:30%;
+    font-size:20px
+}
+.bellIcon
+{
+    margin-left:20px;
+    font-size:20px
+}
+.Account
+{
+    margin-left:20px;
+    width:30px;
+    height:30px;
+    font-size:20px;
+       border-radius:50%;
+       background-color: #008779;
+       color: aliceblue;
+       text-align: center;
+}
