@@ -2,4 +2,21 @@
 {
     margin-left:25%;
     display: flex;
+    margin-top:1%;
+}
+.shortsHolder i 
+{
+    font-size:36px;
+    color:#606060;
+    margin-left:30px;
+
+
+}
+.shortsHolder p{
+    margin-left:30px;
+    color:#606060;
+}
+.iconsHolder
+{
+    margin-top: 13%;
 }

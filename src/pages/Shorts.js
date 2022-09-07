@@ -16,12 +16,12 @@ export default function Shorts() {
             <div>
               <img src={shorts} />
             </div>
-            <div>
-            <p>Likes</p>
-              <p>Dislikes</p>
-              <p>Dowload</p>
-              <p>comment</p>
-              <p>share</p>
+            <div class={styles.iconsHolder}>
+            <i class="fa fa-thumbs-up"></i> <p>1223k</p>
+            <i class="fa fa-thumbs-down"></i> <p>3k</p>
+            <i class="fa fa-download"></i> <p>769</p>      
+            <i class="fa fa-comments-o"></i>  <p>124k</p>
+            <i class="fa fa-share-alt"></i>  <p>20k</p>
             </div>
           </div>
 
